@@ -18,10 +18,10 @@ Gripping your pillow tight
 
 -Exit light
 
-    -Enter night
+    -   Enter night
 
-        -Take my hand
+        -       Take my hand
 
-            -We're off to never-never land!
+            -           We're off to never-never land!
 
 
